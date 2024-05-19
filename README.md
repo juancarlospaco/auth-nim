@@ -1,1 +1,1 @@
-# auth-nim
+# Supabase Auth API Client
